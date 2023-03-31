@@ -19,7 +19,7 @@ For more information about continuous deployment, see "About continuous deployme
 
 
 
-<h2>HTML Table</h2>
+<h2>Diffrence in Jenkins and Github Action</h2>
 
 <table>
   <tr>
